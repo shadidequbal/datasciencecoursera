@@ -1,0 +1,11 @@
+title: "datasciencecoursera"
+author: "shadid equbal"
+date: "09/12/2020"
+output: pdf_document
+
+## This is a markdown file
+
+
+print('helloworld')
+
+
